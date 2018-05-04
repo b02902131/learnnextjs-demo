@@ -13,3 +13,5 @@
 ## Style components
 * Traditional CSS-file-based styling has issues
 * use styled-jsx
+
+* [react-markdown](https://github.com/rexxars/react-markdown) component
